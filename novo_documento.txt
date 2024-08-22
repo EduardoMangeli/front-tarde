@@ -1,3 +1,2 @@
 Um texto qualquer no meu arquivo
-
-outras linhas
+Outra linha
